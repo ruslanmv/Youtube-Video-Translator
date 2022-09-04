@@ -1,8 +1,0 @@
-pip==22.2.2
-gradio==3.0.24
-googletrans==4.0.0rc1
-moviepy
-SpeechRecognition
-gTTS
-youtube_transcript_api
-pytube
