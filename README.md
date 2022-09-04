@@ -1,4 +1,4 @@
-# How to translate videos in YouTube with Python
+# How to translate videos from YouTube with Python
 
 Hello everyone, today we are going to build an interesting application in **Python** that translates the audio language from **YouTube**  into another language.
 
@@ -65,7 +65,7 @@ then you enter to the folder that have been created
 cd Youtube-Video-Translator
 ```
 
-and for today, we  are going to run a simple WebApp so go to the folder gradio
+, we  are going to run a simple **WebApp** so go to the folder gradio
 
 ```
 cd gradio
@@ -115,6 +115,6 @@ You can  choose **initial language** that  is the source **originally** and **fi
 
 For more videos, you can visit **live version** of this program here :
 
-[https://huggingface.co/spaces/ruslanmv/Youtube-Video-Translator](
+[https://huggingface.co/spaces/ruslanmv/Youtube-Video-Translator](https://huggingface.co/spaces/ruslanmv/Youtube-Video-Translator)
 
 **Congratulations!**  You have played with me creating amazing videos from **YouTube** with **Python**.
