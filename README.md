@@ -4,24 +4,6 @@ Hello everyone, today we are going to build an interesting application in **Pyth
 
 This interesting tool may be useful, for example if you want to see any video from **YouTube**  that you cannot understand and you can translate the video into your favorite language. Moreover can be helpful to people who has visual problems and but can listen as well.
 
-
-
-For example if you have this video in **English**, 
-
-<iframe src="https://player.vimeo.com/video/746346327?h=e96b96f665&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Youtube Video Translator - English ( Original)"></iframe>
-
-and you want to translate for example to **Spanish** 
-
-<iframe src="https://player.vimeo.com/video/746346348?h=0952bb6849&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Youtube Video Translator -  Video translated to Spanish"></iframe>
-
-
-
-or even to **Japanese**.
-
-<iframe src="https://player.vimeo.com/video/746346369?h=392d2d8750&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Youtube Video Translator -  Video translated to Japanse"></iframe>
-
-
-
 # Introduction 
 
 I have developed this program taking the **subscripts** of **YouTube** and **translate** them, if they do not exist, then it is extracted the audio and is  applied the technique of  **speech recognition** and then applied the technique of  **text to speech**  then  it is replaced the audio video with the translated audio.
@@ -131,20 +113,8 @@ and then play.
 
 You can  choose **initial language** that  is the source **originally** and **final language** is the language that you want.
 
+For more videos, you can visit **live version** of this program here :
 
-
-from **English** also you can translate to **German**
-
-<iframe src="https://player.vimeo.com/video/746346337?h=757bf0bf74&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Youtube Video Translator -  Video translated to German"></iframe>
-
-and **Italian**
-
-<iframe src="https://player.vimeo.com/video/746346357?h=7966a7a290&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="500" height="281" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Youtube Video Translator -  Video translated to Italian"></iframe>
-
-
-
-For more videos, you can visit the result of this **WebApp** here :
-
-
+[https://huggingface.co/spaces/ruslanmv/Youtube-Video-Translator](
 
 **Congratulations!**  You have played with me creating amazing videos from **YouTube** with **Python**.
